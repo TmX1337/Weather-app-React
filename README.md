@@ -1,7 +1,7 @@
 # Weather-app-React
-#
+
 # The application is used to check the weather around the world
-#
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Open Project directory and type:-
