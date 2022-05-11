@@ -1,4 +1,4 @@
-#The application is used to check the weather around the world
+# The application is used to check the weather around the world
 #
 
 # Weather-app-React
